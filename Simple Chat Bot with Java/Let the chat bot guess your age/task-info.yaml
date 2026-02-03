@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/bot/SimpleBot.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/113/stages/616/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 03 Feb 2026 16:46:59 UTC"
+record: 3
